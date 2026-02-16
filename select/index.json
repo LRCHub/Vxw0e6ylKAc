@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "プレイ・ボール",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T19:59:32.816674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_プレイ・ボール_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_プレイ・ボール_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Play Ball (プレイ・ボール)",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/03_Play_Ball_(プレイ・ボール)_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/04_プレイ・ボール_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/05_プレイ・ボール_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プレイ・ボール",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_プレイ・ボール_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プレイ?ボール",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/07_プレイ_ボール_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレイ・ボール",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_プレイ・ボール_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "プレイ・ボール",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_プレイ・ボール_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "プレイ・ボール",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_プレイ・ボール_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "プレイ ボール",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_プレイ_ボール_宇多田_ヒカル.txt"
+    }
+  ]
+}
